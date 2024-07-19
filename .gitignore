@@ -1,2 +1,5 @@
 number_absences_working_days.xlsx
 venv/
+.DS_Store
+.ipynb_checkpoints/
+myenv/
